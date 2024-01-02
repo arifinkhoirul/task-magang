@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bruno+Ace+SC&family=Dancing+Script:wght@700&family=IBM+Plex+Sans:wght@600&family=Josefin+Sans&family=Jost:wght@600&family=Kanit:wght@500&family=Lilita+One&family=Montserrat:wght@700&family=Noto+Sans:wght@700&family=Open+Sans:wght@600&family=Paytone+One&family=Prompt:wght@300&family=Rancho&family=Righteous&family=Rubik+Maps&family=Sedgwick+Ave+Display&family=Sigmar&display=swap');
+
+/* navbar dan main content */
+body {
+    background-color: #e3e3e3;
+}
+
+ul li a:hover {
+    background-color: #ffffff;
+    border-radius: 5px;
+    color: white;
+}
+
+.logo-team {
+    font-family: 'Josefin Sans';
+    font-size: 50px;
+}
+
+.huruf-blog {
+    font-family: 'Montserrat';
+    font-size: 50px;
+}
+
+.huruf-open {
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+  
+.posisi-character {
+    margin-top: 40px;
+}
+
+.huruf-data {
+    font-family: 'Open sans';
+}
+.huruf-an {
+    font-family: 'Open sans';
+}
+
+.huruf-meetings {
+    font-family: 'Open sans';
+}
+.huruf-the {
+    font-family: 'Open sans';
+}
+.huruf-team {
+    font-family: 'Open sans';
+}
+.huruf-why {
+    font-family: 'Open sans';
+}
+.huruf-what {
+    font-family: 'Open sans';
+}
+.huruf-the-team {
+    font-family: 'Open sans';
+}
+.huruf-steve {
+    font-family: 'Open sans';
+}
+.huruf-the-executive {
+    font-family: 'Open sans';
+}
+
+.posisi-character-2 {
+    margin-top: 99px;
+}
+.posisi-character-3 {
+    margin-top: 84px;
+}
+
+.huruf-what-new {
+    font-family: 'Open sans';
+}
+
+.huruf-an-internal {
+    font-family: 'Open sans';
+}
+.huruf-drive {
+    font-family: 'Open sans';
+}
+
+.huruf-new {
+    font-family: 'Open sans';
+    margin-top: -10px;
+}
+.huruf-tips {
+    font-family: 'Open sans';
+}
+
+.huruf-producer {
+    font-family: 'Open sans';
+    padding-bottom: 65px;
+}
+
+.posisi-next {
+    margin-top: 90px;
+}
+
+.huruf-next {
+    font-family: 'Open sans';
+    padding: 13px 80px;
+    margin-bottom: 100px;
+    font-weight: 700;
+    background-color: #4f3fba;
+}
+
+.bg-apbar {
+    background-color: #4f3fba;
+}
+
+.nav-link:hover {
+    border: 5px solid #4f3fba;
+    border-radius: 15px;
+}
+
+/* .huruf-next:nth-child(2) {
+    border: 5px solid #ab0000;
+    border-radius: 15px;
+    padding: 0px 50px;
+} */
+
+.huruf-author {
+    font-size: 15px;
+    font-family: 'Open Sans';
+}
+/* navbar dan main content */
+
+/* footer */
+.bg-footer {
+    background-color: #181d45;
+}
+
+.headline-footer {
+    color: #4d37de;
+}
+
+.panah-email-bawah {
+    margin: 0px 0px 0px 200px;
+  }
+  
+

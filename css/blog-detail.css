@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bruno+Ace+SC&family=Dancing+Script:wght@700&family=IBM+Plex+Sans:wght@600&family=Josefin+Sans&family=Jost:wght@600&family=Kanit:wght@500&family=Lilita+One&family=Montserrat:wght@700&family=Noto+Sans:wght@700&family=Open+Sans:wght@600&family=Paytone+One&family=Prompt:wght@300&family=Rancho&family=Righteous&family=Rubik+Maps&family=Sedgwick+Ave+Display&family=Sigmar&display=swap');
+
+/* navbar */
+
+.logo-team {
+    font-family: 'Josefin Sans';
+    font-size: 50px;
+}
+
+ul li a:hover {
+    background-color: #ffffff;
+    border-radius: 5px;
+    color: rgb(222, 31, 31);
+}
+
+
+.bg-apbar {
+    background-color: #4f3fba;
+}
+/* end navbar*/
+
+
+
+
+
+/* main */
+.huruf-data {
+    font-size: 50px;
+    font-family: 'Josefin Sans';
+}
+
+.gambar-19 {
+    border-radius: 1px 1px 1px 1px;
+    height: 600px;
+}
+
+.gambar-20 {
+    margin-left: 20px;
+    height: 70px;
+}
+
+.posisi-written {
+    margin-top: 80px;
+    margin-bottom: 100px;
+}
+
+.posisi-comment {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.huruf-written {
+    color: #cf91d3;
+}
+
+.huruf-join {
+    font-family: 'Josefin Sans';
+}
+
+.bg-outline {
+    border: 3px solid #4f3fba;
+}
+
+.nav-link:hover {
+    border: 5px solid #4f3fba;
+    border-radius: 15px;
+}
+/* end main */
+
+
+/* footer */
+.bg-footer {
+    background-color: #181d45;
+}
+
+.headline-footer {
+    color: #4d37de;
+}
+
+.panah-email-bawah {
+    margin: 0px 0px 0px 200px;
+  }
+/* end footer */
+
+
+/* medium */
+@media (max-width: 991.98px) {
+      
+}
+
+
+/* small */
+@media (max-width: 767.98px) {
+    .posisi-data {
+        margin-top: 80px;
+    }
+}
