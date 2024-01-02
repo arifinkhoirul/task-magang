@@ -37,8 +37,8 @@ ul li a:hover {
 }
 
 .panah {
-  margin: 0px 0px 0px 110px;
-  color: #ff0303;
+  margin: 0px 0px 0px 105px;
+  color: #8f8e8e;
 }
 
 .huruf-email {
@@ -149,7 +149,6 @@ ul li a:hover {
       .huruf-chat-4 {
         font-size: 55px;
         font-family: "Jost";
-        margin-top: 40px;
         font-weight: 1000;
       }
 
